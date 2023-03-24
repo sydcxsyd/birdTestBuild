@@ -1,0 +1,90 @@
+
+bird9.png
+size: 512, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+chibang_L
+  rotate: true
+  xy: 398, 158
+  size: 90, 52
+  orig: 90, 53
+  offset: 0, 0
+  index: -1
+chibang_R
+  rotate: false
+  xy: 446, 165
+  size: 59, 83
+  orig: 59, 84
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 0, 7
+  size: 241, 269
+  orig: 249, 277
+  offset: 5, 5
+  index: -1
+shenti
+  rotate: false
+  xy: 271, 36
+  size: 142, 212
+  orig: 143, 212
+  offset: 1, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 271, 1
+  size: 55, 47
+  orig: 56, 47
+  offset: 1, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 452, 5
+  size: 64, 60
+  orig: 65, 60
+  offset: 1, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 414, 30
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: true
+  xy: 376, 0
+  size: 46, 48
+  orig: 48, 48
+  offset: 1, 0
+  index: -1
+yanqiu
+  rotate: false
+  xy: 474, 137
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+zhuazi
+  rotate: false
+  xy: 414, 80
+  size: 72, 31
+  orig: 72, 31
+  offset: 0, 0
+  index: -1
+zui_down
+  rotate: false
+  xy: 325, 7
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+zui_up
+  rotate: false
+  xy: 415, 113
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1

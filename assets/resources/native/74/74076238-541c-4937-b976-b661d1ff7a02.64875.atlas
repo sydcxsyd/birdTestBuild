@@ -1,0 +1,48 @@
+
+egg.png
+size: 512, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+dan
+  rotate: false
+  xy: 153, 4
+  size: 82, 109
+  orig: 82, 109
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 438, 66
+  size: 47, 46
+  orig: 58, 58
+  offset: 6, 6
+  index: -1
+liefeng2
+  rotate: true
+  xy: 0, 0
+  size: 113, 151
+  orig: 128, 177
+  offset: 8, 13
+  index: -1
+liefeng3
+  rotate: false
+  xy: 237, 9
+  size: 80, 104
+  orig: 144, 182
+  offset: 30, 39
+  index: -1
+niaocao_hou
+  rotate: true
+  xy: 388, 22
+  size: 91, 48
+  orig: 91, 48
+  offset: 0, 0
+  index: -1
+niaocao_qian
+  rotate: true
+  xy: 319, 10
+  size: 103, 67
+  orig: 107, 69
+  offset: 2, 2
+  index: -1

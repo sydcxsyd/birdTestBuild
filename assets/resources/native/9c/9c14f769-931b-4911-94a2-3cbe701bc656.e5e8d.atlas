@@ -1,0 +1,111 @@
+
+bird4.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+chibang
+  rotate: false
+  xy: 409, 126
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 0, 51
+  size: 243, 295
+  orig: 252, 301
+  offset: 5, 3
+  index: -1
+kuzi
+  rotate: 270
+  xy: 403, 192
+  size: 154, 88
+  orig: 155, 88
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: true
+  xy: 245, 163
+  size: 183, 162
+  orig: 183, 162
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: 270
+  xy: 245, 14
+  size: 151, 185
+  orig: 151, 185
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 384, 321
+  size: 45, 25
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 382, 8
+  size: 36, 44
+  orig: 36, 45
+  offset: 0, 1
+  index: -1
+toufa3
+  rotate: false
+  xy: 489, 214
+  size: 23, 35
+  orig: 25, 35
+  offset: 2, 0
+  index: -1
+weiba1
+  rotate: false
+  xy: 470, 247
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+weiba2
+  rotate: false
+  xy: 0, 20
+  size: 40, 29
+  orig: 40, 30
+  offset: 0, 1
+  index: -1
+yanjing
+  rotate: 270
+  xy: 430, 73
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: true
+  xy: 420, 19
+  size: 58, 74
+  orig: 60, 77
+  offset: 2, 1
+  index: -1
+yanqiu
+  rotate: false
+  xy: 478, 286
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 245, 168
+  size: 51, 29
+  orig: 53, 30
+  offset: 1, 0
+  index: -1
+zui2
+  rotate: false
+  xy: 198, 0
+  size: 58, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1

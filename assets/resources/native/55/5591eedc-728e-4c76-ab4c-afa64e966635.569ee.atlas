@@ -1,0 +1,111 @@
+
+bird8.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+chibang_R
+  rotate: false
+  xy: 402, 103
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+erji
+  rotate: 180
+  xy: 385, 182
+  size: 110, 119
+  orig: 119, 121
+  offset: 1, 1
+  index: -1
+glow
+  rotate: false
+  xy: 0, 0
+  size: 252, 301
+  orig: 262, 310
+  offset: 4, 5
+  index: -1
+shenti
+  rotate: false
+  xy: 254, 115
+  size: 153, 186
+  orig: 155, 187
+  offset: 1, 1
+  index: -1
+toufa
+  rotate: false
+  xy: 304, 37
+  size: 72, 67
+  orig: 72, 68
+  offset: 0, 1
+  index: -1
+weiba
+  rotate: 270
+  xy: 428, 66
+  size: 36, 73
+  orig: 36, 75
+  offset: 0, 1
+  index: -1
+yanjing
+  rotate: false
+  xy: 375, 72
+  size: 54, 67
+  orig: 54, 68
+  offset: 0, 1
+  index: -1
+yanpi
+  rotate: false
+  xy: 254, 75
+  size: 53, 56
+  orig: 55, 57
+  offset: 1, 0
+  index: -1
+yanqiu
+  rotate: false
+  xy: 478, 154
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+zhuazi_L
+  rotate: false
+  xy: 415, 40
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+zhuazi_R
+  rotate: false
+  xy: 254, 41
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+zui_down
+  rotate: false
+  xy: 338, 36
+  size: 75, 27
+  orig: 89, 39
+  offset: 0, 0
+  index: -1
+zui_up
+  rotate: true
+  xy: 479, 211
+  size: 90, 32
+  orig: 91, 32
+  offset: 0, 0
+  index: -1
+zuixia
+  rotate: false
+  xy: 478, 17
+  size: 34, 55
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+zuixia2
+  rotate: false
+  xy: 480, 100
+  size: 26, 52
+  orig: 27, 53
+  offset: 1, 0
+  index: -1
