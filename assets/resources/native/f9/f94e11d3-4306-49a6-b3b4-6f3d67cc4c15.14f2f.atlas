@@ -1,0 +1,180 @@
+
+jiesuan.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+312
+  rotate: false
+  xy: 99, 606
+  size: 312, 111
+  orig: 312, 111
+  offset: 0, 0
+  index: -1
+biaoqianlan
+  rotate: false
+  xy: 2, 2
+  size: 747, 170
+  orig: 749, 172
+  offset: 1, 1
+  index: -1
+button2
+  rotate: false
+  xy: 2, 472
+  size: 394, 132
+  orig: 394, 132
+  offset: 0, 0
+  index: -1
+caidai_lizi_1
+  rotate: false
+  xy: 2, 748
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+chenggong
+  rotate: false
+  xy: 413, 586
+  size: 391, 112
+  orig: 393, 114
+  offset: 1, 1
+  index: -1
+geise
+  rotate: false
+  xy: 31, 743
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+guanggao
+  rotate: true
+  xy: 2, 651
+  size: 87, 95
+  orig: 87, 95
+  offset: 0, 0
+  index: -1
+jinbi_2
+  rotate: true
+  xy: 879, 695
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+saoguang_00
+  rotate: true
+  xy: 58, 740
+  size: 28, 44
+  orig: 198, 68
+  offset: 0, 23
+  index: -1
+saoguang_01
+  rotate: true
+  xy: 154, 727
+  size: 41, 56
+  orig: 198, 68
+  offset: 0, 12
+  index: -1
+saoguang_02
+  rotate: false
+  xy: 429, 701
+  size: 68, 67
+  orig: 198, 68
+  offset: 0, 1
+  index: -1
+saoguang_03
+  rotate: false
+  xy: 499, 700
+  size: 91, 68
+  orig: 198, 68
+  offset: 15, 0
+  index: -1
+saoguang_04
+  rotate: false
+  xy: 592, 700
+  size: 101, 68
+  orig: 198, 68
+  offset: 47, 0
+  index: -1
+saoguang_05
+  rotate: false
+  xy: 695, 700
+  size: 104, 68
+  orig: 198, 68
+  offset: 82, 0
+  index: -1
+saoguang_06
+  rotate: false
+  xy: 801, 700
+  size: 76, 68
+  orig: 198, 68
+  offset: 122, 0
+  index: -1
+saoguang_07
+  rotate: true
+  xy: 212, 722
+  size: 46, 60
+  orig: 198, 68
+  offset: 152, 0
+  index: -1
+saoguang_08
+  rotate: true
+  xy: 104, 736
+  size: 32, 48
+  orig: 198, 68
+  offset: 166, 1
+  index: -1
+star_1
+  rotate: false
+  xy: 398, 328
+  size: 262, 256
+  orig: 264, 258
+  offset: 1, 1
+  index: -1
+star_2
+  rotate: false
+  xy: 2, 174
+  size: 301, 296
+  orig: 303, 298
+  offset: 1, 1
+  index: -1
+star_3
+  rotate: false
+  xy: 662, 327
+  size: 262, 257
+  orig: 264, 259
+  offset: 1, 1
+  index: -1
+xiayiguan
+  rotate: false
+  xy: 274, 719
+  size: 153, 49
+  orig: 155, 51
+  offset: 1, 1
+  index: -1
+
+jiesuan_2.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 3
+  size: 371, 391
+  orig: 371, 391
+  offset: 0, 0
+  index: -1
+guadai_1
+  rotate: false
+  xy: 2, 396
+  size: 737, 388
+  orig: 737, 388
+  offset: 0, 0
+  index: -1
+tanban
+  rotate: false
+  xy: 375, 2
+  size: 362, 392
+  orig: 362, 392
+  offset: 0, 0
+  index: -1
